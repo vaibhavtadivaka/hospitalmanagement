@@ -1,0 +1,11 @@
+.nav-item a:hover{
+    background-color:black;
+    color:white;
+}
+
+body {
+    background-image:url('https://wallpapers.com/images/hd/medical-background-cjge7e89adg6ub8x.jpg');
+    background-size:cover;
+    height:100vh;
+}
+
